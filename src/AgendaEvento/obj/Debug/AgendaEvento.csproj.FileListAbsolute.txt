@@ -1,0 +1,4 @@
+C:\Users\vdschuck\Downloads\Projetos\AgendaEvento\src\AgendaEvento\bin\Debug\AgendaEvento.dll
+C:\Users\vdschuck\Downloads\Projetos\AgendaEvento\src\AgendaEvento\bin\Debug\AgendaEvento.pdb
+C:\Users\vdschuck\Downloads\Projetos\AgendaEvento\src\AgendaEvento\obj\Debug\AgendaEvento.dll
+C:\Users\vdschuck\Downloads\Projetos\AgendaEvento\src\AgendaEvento\obj\Debug\AgendaEvento.pdb

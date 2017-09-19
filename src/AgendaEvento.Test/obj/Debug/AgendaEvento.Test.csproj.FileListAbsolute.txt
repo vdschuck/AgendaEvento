@@ -1,0 +1,8 @@
+C:\Users\vdschuck\Downloads\Projetos\AgendaEvento\src\AgendaEvento.Test\bin\Debug\AgendaEvento.Test.dll
+C:\Users\vdschuck\Downloads\Projetos\AgendaEvento\src\AgendaEvento.Test\bin\Debug\AgendaEvento.Test.pdb
+C:\Users\vdschuck\Downloads\Projetos\AgendaEvento\src\AgendaEvento.Test\bin\Debug\AgendaEvento.dll
+C:\Users\vdschuck\Downloads\Projetos\AgendaEvento\src\AgendaEvento.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vdschuck\Downloads\Projetos\AgendaEvento\src\AgendaEvento.Test\bin\Debug\AgendaEvento.pdb
+C:\Users\vdschuck\Downloads\Projetos\AgendaEvento\src\AgendaEvento.Test\obj\Debug\AgendaEvento.Test.csprojResolveAssemblyReference.cache
+C:\Users\vdschuck\Downloads\Projetos\AgendaEvento\src\AgendaEvento.Test\obj\Debug\AgendaEvento.Test.dll
+C:\Users\vdschuck\Downloads\Projetos\AgendaEvento\src\AgendaEvento.Test\obj\Debug\AgendaEvento.Test.pdb
